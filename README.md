@@ -16,6 +16,5 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-contributors: <a href="https://github.com/Nahin-01">
-<img src="https://avatars.githubusercontent.com/u/193068974?v=4" />
-</a>
+
+[<img src="https://avatars.githubusercontent.com/u/193068974?v=4" width="60px;"/><br /><sub><ahref="https://github.com/Nahin-01">{{ Toha Nahin }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }})
