@@ -16,4 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-contributors: [https://github.com/Nahin-01](Nahin-01)
+contributors: <a href="https://github.com/Nahin-01">
+<img src="https://avatars.githubusercontent.com/u/193068974?v=4" />
+</a>
